@@ -1,7 +1,6 @@
 # .dotfiles
 
 # THESE ARE MY PERSONAL USE CASES. IT MAY OR MAY NOT WORK ON YOUR SYSTEM.
-### (neither have i published anything yet)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,6 +9,9 @@
 ## Overview
 
 These are **MY** config files, for **MY** use case. Just **dont be dumb.**  
+
+### IMPORTANT
+This is supposed to use with ```GNU Stow```
 
 ## To Do
 - [ ] figure out how stow works
