@@ -1,3 +1,8 @@
+#    _
+#   / \
+#  / _ \    https://github.com/aqquua/.aquadotfiles
+# / ___ \
+#/_/   \_\
 #
 # ~/.bashrc
 #
