@@ -35,5 +35,5 @@ xbps-install stow *
 
 #### Other Distros
 ```
-on other distros not listed, it should be the same package name, stow. like on gentoo it is named (app-admin/)stow
+on other distros not listed, it should be the same package name, stow. like on gentoo it is named app-admin/stow
 ```
