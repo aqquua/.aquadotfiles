@@ -19,7 +19,7 @@ sudo pacman -S stow
 ```
 
 #### Debian Users 
-###### (Distros like Ubuntu/Mint/POP/Deuvan
+###### (Distros like Ubuntu/Mint/POP/Deuvan)
 ```
 sudo apt-get install stow
 ```
