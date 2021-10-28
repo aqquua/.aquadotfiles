@@ -8,7 +8,7 @@ These are **MY** config files, for **MY** use case. Just **dont be dumb.**
 ## Dependency
 This is supposed to use with ```GNU Stow```
 
-Other programs, like XMonad have their own dependencies. Check out the config files for those dependencies like fonts or startup programs before you drag and drop. Stow is just the main way this is structured
+Other programs, like XMonad have their own dependencies (not in the repo rn lol). Check out the config files for those dependencies like fonts or startup programs before you drag and drop. Stow is just the main way this is structured
 
 ##### How to install stow
 
