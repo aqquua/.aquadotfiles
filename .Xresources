@@ -1,0 +1,61 @@
+!    _
+!   / \
+!  / _ \    https://github.com/aqquua/.aquadotfiles
+! / ___ \   (Placeholder for Gitlab Mirror)
+!/_/   \_\
+
+! Dmenu Config
+dmenu.font: iosevka:size=10
+
+! URXVT Config
+URxvt*buffered: false
+URxvt.font: xft:iosevka:size=10
+URxvt.scrollBar: false
+URxvt.saveLines: 2000
+
+!! URXVT Extensions
+URxvt.perl-ext-common: default,clipboard
+!!clipboard
+URxvt.keysym.M-c: perl:clipboard:copy
+URxvt.keysym.M-v: perl:clipboard:paste
+URxvt*depth: 32
+
+! Shamelessly stolen from DT
+! Doom One is a nice scheme
+! FOR ALL OTHER PROGRAMS USE XRESOURCES
+! This includes xterm and urxvt
+*.foreground:   #bbc2cf
+*.background:   #282c34
+*.cursorColor:  #bbc2cf
+
+! black
+*.color0:       #1c1f24
+*.color8:       #5b6268
+
+! red
+*.color1:       #ff6c6b
+*.color9:       #da8548
+
+! green
+*.color2:       #98be65
+*.color10:      #4db5bd
+
+! yellow
+*.color3:       #da8548
+*.color11:      #ecbe7b
+
+! blue
+*.color4:       #51afef
+*.color12:      #3071db
+
+! magenta
+*.color5:       #c678dd
+*.color13:      #a9a1e1
+
+! cyan
+*.color6:       #5699af
+*.color14:      #46d9ff
+
+! white
+*.color7:       #202328
+*.color15:      #dfdfdf
