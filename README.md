@@ -37,3 +37,10 @@ xbps-install stow *
 ```
 on other distros not listed, it should be the same package name, stow. like on gentoo it is named app-admin/stow
 ```
+
+
+
+
+
+#### i love you emacs
+![Emacs](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png)
