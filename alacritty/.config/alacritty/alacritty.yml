@@ -1,9 +1,4 @@
-#    _
-#   / \
-#  / _ \    https://github.com/aqquua/.aquadotfiles
-# / ___ \
-#/_/   \_\
-# >> Maintainer's note: i barely modified anything here <<
+# Maintainer's note: i barely modified anything here
 # Configuration for Alacritty, the GPU enhanced terminal emulator.
 
 # Import additional configuration files
