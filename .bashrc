@@ -11,7 +11,7 @@
 
 # EXPORTS
 export EDITOR=emacs
-export VISUAL=nvim
+export VISUAL=emacs
 export TERM=xterm-256color
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 export PATH="$PATH:/home/aqua/.emacs.d/bin"
